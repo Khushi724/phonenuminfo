@@ -1,0 +1,20 @@
+*{
+    background-color: pink;
+    /* background: url("/static/images/bg4.png"); */
+    /* min-height: 100vh; */
+    /* background-size: 100vw 100vh; */
+    /* background-repeat: no-repeat; */
+    /* width: 100%; */
+    /* display: flex;  */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* color: black; */
+}
+h1{
+    text-align: center;
+    /* color: blueviolet; */
+}
+form{
+    text-align: center;
+    /* color: palevioletred; */
+}
